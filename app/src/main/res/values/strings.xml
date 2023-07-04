@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">FSL recognition app</string>
+
+    <string-array name="fsl_words">
+        <item>What</item>
+        <item>Who</item>
+        <item>When</item>
+        <item>Where</item>
+        <item>Why</item>
+        <item>How</item>
+        <item>Ago</item>
+        <item>Day</item>
+        <item>Early</item>
+        <item>Hour</item>
+        <item>Late</item>
+        <item>Later</item>
+        <item>Minute</item>
+        <item>Never</item>
+        <item>Now</item>
+    </string-array>
 </resources>
