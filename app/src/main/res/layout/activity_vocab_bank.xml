@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -42,35 +42,65 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
-    <Button
-        android:id="@+id/btnWords"
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardFSLWords"
         android:layout_width="295dp"
         android:layout_height="100dp"
-        android:layout_marginTop="77dp"
-        android:background="@drawable/bg_btnvb"
-        android:fontFamily="@font/poppins"
-        android:text="FSL Words"
-        android:textAllCaps="false"
-        android:textColor="@color/white"
-        android:textSize="@dimen/_20ssp"
-        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="216dp"
+        android:layout_marginHorizontal="50dp"
+        app:cardCornerRadius="24dp"
+        app:cardElevation="10dp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/imageView3" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
 
-    <Button
-        android:id="@+id/btnPhrases"
+        <Button
+            android:id="@+id/btnWords"
+            android:layout_width="295dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="0dp"
+            android:background="@drawable/bg_btnvb"
+            android:text="FSL Words"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_20ssp"
+            android:fontFamily="@font/poppins"
+            android:gravity="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/imageView3" />
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardFSLPhrases"
         android:layout_width="295dp"
         android:layout_height="100dp"
-        android:layout_marginTop="32dp"
-        android:background="@drawable/bg_btnvb"
-        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="350dp"
+        android:layout_marginHorizontal="50dp"
+        app:cardCornerRadius="24dp"
+        app:cardElevation="10dp"
+        app:cardBackgroundColor="#EDEDED"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnWords"
-        android:text="FSL Phrases"
-        android:textAllCaps="false"
-        android:textColor="@color/white"
-        android:textSize="@dimen/_20ssp"
-        android:fontFamily="@font/poppins"/>
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
 
+        <Button
+            android:id="@+id/btnPhrases"
+            android:layout_width="295dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="0dp"
+            android:background="@drawable/bg_btnvb"
+            android:text="FSL Phrases"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_20ssp"
+            android:fontFamily="@font/poppins"
+            android:gravity="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btnWords" />
+
+    </androidx.cardview.widget.CardView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

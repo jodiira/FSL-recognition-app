@@ -39,6 +39,11 @@ public class MainScreen extends AppCompatActivity {
             startActivity(intent);
         });
 
+        btnAbout.setOnClickListener((v)->{
+            Intent intent = new Intent(MainScreen.this, About.class);
+            startActivity(intent);
+        });
+
 
     }
 }
