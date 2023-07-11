@@ -32,8 +32,8 @@ public class About extends AppCompatActivity {
         TextView aboutText = findViewById(R.id.aboutText);
 
         StringBuilder aboutTextBuilder = new StringBuilder();
-        aboutTextBuilder.append("Welcome to the app for recognizing Filipino sign language! By offering a potent tool for precisely identifying and interpreting specific Filipino Sign Language (FSL) motions, our mission is to close the communication gap between the hearing community and the deaf population.\n\n");
-        aboutTextBuilder.append("Our app makes use of cutting-edge technology and deep learning algorithms to enable real-time sign language detection. It was created with users and accessibility in mind. The program effectively facilitates communication between the deaf and hearing by translating FSL motions into written or spoken language using the device's built-in camera.\n\n");
+        aboutTextBuilder.append("Welcome to the application for recognizing Filipino sign language! By offering a potent tool for precisely identifying and interpreting specific Filipino Sign Language (FSL) motions, our mission is to close the communication gap between the hearing community and the deaf population.\n\n");
+        aboutTextBuilder.append("Our application makes use of cutting-edge technology and deep learning algorithms to enable real-time sign language detection. It was created with users and accessibility in mind. The program effectively facilitates communication between the deaf and hearing by translating FSL motions into written or spoken language using the device's built-in camera.\n\n");
         aboutTextBuilder.append("Key features:\n\n");
         aboutTextBuilder.append("1. Accurate Sign Language Recognition: To achieve a high degree of accuracy in identifying diverse signs and gestures, our software has been trained on a sizable dataset of FSL gestures. It can accurately interpret both individual signs and entire phrases.\n\n");
         aboutTextBuilder.append("2. Real-time Translation: The software offers real-time translation of FSL motions into written text or spoken language, facilitating communication in sign language for hearing people.\n\n");
