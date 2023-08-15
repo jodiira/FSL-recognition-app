@@ -45,7 +45,7 @@ public class MainScreen extends AppCompatActivity {
         });
 
         btnCamera.setOnClickListener((v)->{
-            Intent intent = new Intent(MainScreen.this, Camera.class);
+            Intent intent = new Intent(MainScreen.this, CameraActivity.class);
             startActivity(intent);
         });
 

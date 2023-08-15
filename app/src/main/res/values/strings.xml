@@ -1,22 +1,310 @@
 <resources>
     <string name="app_name">FSL recognition app</string>
 
+    <string name="ellipse_description">A beautiful ellipse shape with vibrant colors</string>
+    <string name="settings_button_description">Settings</string>
+
     <string-array name="fsl_words">
-        <item>What</item>
-        <item>Who</item>
-        <item>When</item>
-        <item>Where</item>
-        <item>Why</item>
-        <item>How</item>
-        <item>Ago</item>
-        <item>Day</item>
-        <item>Early</item>
-        <item>Hour</item>
-        <item>Late</item>
-        <item>Later</item>
-        <item>Minute</item>
-        <item>Never</item>
-        <item>Now</item>
+        <item>Afraid</item>
+        <item>April</item>
+        <item>August</item>
+        <item>Allow</item>
+        <item>Aunt</item>
+        <item>Adopted-Child</item>
+        <item>Architect</item>
+        <item>Angry</item>
+        <item>Big</item>
+        <item>Boastful</item>
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Brown</item>
+        <item>Bad</item>
+        <item>Beautiful</item>
+        <item>Bitter</item>
+        <item>Bright</item>
+        <item>Buy</item>
+        <item>Bored</item>
+        <item>Bath</item>
+        <item>Bring</item>
+        <item>Baby</item>
+        <item>Complain</item>
+        <item>Cheap</item>
+        <item>Clean</item>
+        <item>Correct</item>
+        <item>Cold</item>
+        <item>Confused</item>
+        <item>Condolence</item>
+        <item>Congratulations</item>
+        <item>Chef</item>
+        <item>Children</item>
+        <item>Cousin</item>
+        <item>Dumb</item>
+        <item>December</item>
+        <item>Dark</item>
+        <item>Delicious</item>
+        <item>Different</item>
+        <item>Difficult</item>
+        <item>Dirty</item>
+        <item>Dry</item>
+        <item>Deaf-Clap</item>
+        <item>Daughter</item>
+        <item>Dancer</item>
+        <item>Doctor</item>
+        <item>Emotions</item>
+        <item>Enjoy</item>
+        <item>Easy</item>
+        <item>Expensive</item>
+        <item>Embarassed</item>
+        <item>Excited</item>
+        <item>Embrace</item>
+        <item>Frustrated</item>
+        <item>Friday</item>
+        <item>February</item>
+        <item>False</item>
+        <item>Far</item>
+        <item>Fast</item>
+        <item>Few</item>
+        <item>Full</item>
+        <item>Foolish</item>
+        <item>Father</item>
+        <item>Family</item>
+        <item>Green</item>
+        <item>Gold</item>
+        <item>Gray</item>
+        <item>Good</item>
+        <item>Glad</item>
+        <item>Goodbye</item>
+        <item>Goodluck</item>
+        <item>Grandmother</item>
+        <item>Grandfather</item>
+        <item>Grand-Child</item>
+        <item>Godmother</item>
+        <item>Godfather</item>
+        <item>Hate</item>
+        <item>Hurt</item>
+        <item>Hard</item>
+        <item>Humble</item>
+        <item>Handsome</item>
+        <item>Heavy</item>
+        <item>High</item>
+        <item>Honest</item>
+        <item>Hot</item>
+        <item>Hungry</item>
+        <item>Happy</item>
+        <item>Husband</item>
+        <item>Important</item>
+        <item>January</item>
+        <item>July</item>
+        <item>June</item>
+        <item>Jealous</item>
+        <item>Kid</item>
+        <item>Liar</item>
+        <item>Light</item>
+        <item>Low</item>
+        <item>Love</item>
+        <item>Let</item>
+        <item>Monday</item>
+        <item>March</item>
+        <item>May</item>
+        <item>Month</item>
+        <item>Many</item>
+        <item>Mother</item>
+        <item>Marriage</item>
+        <item>November</item>
+        <item>Near</item>
+        <item>New</item>
+        <item>Noisy</item>
+        <item>Nervous</item>
+        <item>Nephew</item>
+        <item>Niece</item>
+        <item>Orange</item>
+        <item>October</item>
+        <item>Old</item>
+        <item>Older Sister</item>
+        <item>Older Brother</item>
+        <item>Opo</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>Proud</item>
+        <item>Permit</item>
+        <item>Pregnant</item>
+        <item>Parents</item>
+        <item>Photographer</item>
+        <item>Professor</item>
+        <item>Quiet</item>
+        <item>Rainbow</item>
+        <item>Red</item>
+        <item>Scared</item>
+        <item>Small</item>
+        <item>Smart</item>
+        <item>Soft</item>
+        <item>Silver</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>September</item>
+        <item>Salty</item>
+        <item>Same</item>
+        <item>Slow</item>
+        <item>Sour</item>
+        <item>Spicy</item>
+        <item>Strong</item>
+        <item>Sweet</item>
+        <item>Sad</item>
+        <item>Shy</item>
+        <item>Sick</item>
+        <item>Sleepy</item>
+        <item>Surprised</item>
+        <item>Student</item>
+        <item>Son</item>
+        <item>Stepbrother</item>
+        <item>Stepsister</item>
+        <item>Tan</item>
+        <item>Thursday</item>
+        <item>Tuesday</item>
+        <item>True</item>
+        <item>Tired</item>
+        <item>Teacher</item>
+        <item>Teenager</item>
+        <item>Uncle</item>
+        <item>Ugly</item>
+        <item>White</item>
+        <item>Wednesday</item>
+        <item>Weak</item>
+        <item>Wet</item>
+        <item>Wrong</item>
+        <item>Worry</item>
+        <item>Wife</item>
+        <item>Work</item>
+        <item>Yellow</item>
+        <item>Year</item>
+        <item>Yes</item>
+        <item>Young</item>
+
     </string-array>
+
+
+    <string-array name="fsl_phrases">
+        <item>Are you Student?</item>
+        <item>Again, please</item>
+        <item>Absolutely, I will teach you</item>
+        <item>Come to eat together</item>
+        <item>Come learn FSL</item>
+        <item>Come let\'s eat</item>
+        <item>Class, please listen</item>
+        <item>Could you please teach me?</item>
+        <item>Calm Down</item>
+        <item>Did you answer your assignment?</item>
+        <item>Do we have a class?</item>
+        <item>Do we have an exam today?</item>
+        <item>Excuse me</item>
+        <item>Good Evening</item>
+        <item>Good Afternoon</item>
+        <item>Good Morning</item>
+        <item>Good job</item>
+        <item>Hold on im just tired</item>
+        <item>Happy Birthday</item>
+        <item>Happy Fathers Day</item>
+        <item>Happy Mothers Day</item>
+        <item>Happy Teachers Day</item>
+        <item>He/she is my classmate</item>
+        <item>He/she is my schoolmate</item>
+        <item>he/she is my sweetheart</item>
+        <item>How old are you?</item>
+        <item>Have you done the assignment?</item>
+        <item>I know he/she is my friend</item>
+        <item>Is there an exam today?</item>
+        <item>Is there a class?</item>
+        <item>I don\'t understand</item>
+        <item>I apologize, I am still learning sign language</item>
+        <item>I don\'t know</item>
+        <item>I forgot</item>
+        <item>I knew your face</item>
+        <item>I know</item>
+        <item>I remind</item>
+        <item>I understand</item>
+        <item>I want to practice my sign language</item>
+        <item>I like you</item>
+        <item>I miss you</item>
+        <item>Just a little</item>
+        <item>Keep working</item>
+        <item>May I go to the comfort room?</item>
+        <item>No I am not student</item>
+        <item>No teacher</item>
+        <item>Never give up</item>
+        <item>Oh I\'m just tired</item>
+        <item>Please come here</item>
+        <item>Please sign slow, I don\'t understand</item>
+        <item>Such a beautiful day</item>
+        <item>See you again</item>
+        <item>See you later</item>
+        <item>See you soon</item>
+        <item>That\'s very good</item>
+        <item>Take care</item>
+        <item>Try again</item>
+        <item>Very good</item>
+        <item>What are you studying?</item>
+        <item>What work do you do?</item>
+        <item>Where do you lived?</item>
+        <item>Which university are you at?</item>
+        <item>What time is the class?</item>
+        <item>What\'s wrong?</item>
+        <item>What time is it?</item>
+        <item>What time will our class starts?</item>
+        <item>When is your birthday?</item>
+        <item>When is your breaktime?</item>
+        <item>Where do you study?</item>
+        <item>Who is your teacher?</item>
+        <item>Why are you shy?</item>
+        <item>Wait a minute</item>
+        <item>We\'re the same</item>
+        <item>What\'s up</item>
+        <item>Yes! I am student</item>
+        <item>Yes teacher</item>
+        <item>You are important</item>
+    </string-array>
+
+
+    <string-array name="fsl_alphabet">
+        <item>Aa</item>
+        <item>Bb</item>
+        <item>Cc</item>
+        <item>Dd</item>
+        <item>Ee</item>
+        <item>Ff</item>
+        <item>Gg</item>
+        <item>Hh</item>
+        <item>Ii</item>
+        <item>Jj</item>
+        <item>Kk</item>
+        <item>Ll</item>
+        <item>Mm</item>
+        <item>Nn</item>
+        <item>Oo</item>
+        <item>Pp</item>
+        <item>Qq</item>
+        <item>Rr</item>
+        <item>Ss</item>
+        <item>Tt</item>
+        <item>Uu</item>
+        <item>Vv</item>
+        <item>Ww</item>
+        <item>Xx</item>
+        <item>Yy</item>
+        <item>Zz</item>
+    </string-array>
+
+    <string-array name="fsl_number">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
 
 </resources>

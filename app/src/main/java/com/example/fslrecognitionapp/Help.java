@@ -24,7 +24,7 @@ public class Help extends AppCompatActivity {
         btnBackHelp = findViewById(R.id.btnBackHelp);
 
         btnBackHelp.setOnClickListener((v)->{
-            Intent intent = new Intent(Help.this, Camera.class);
+            Intent intent = new Intent(Help.this, CameraActivity.class);
             startActivity(intent);
         });
 

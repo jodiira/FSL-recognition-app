@@ -11,7 +11,7 @@
     <androidx.camera.view.PreviewView
         android:id="@+id/cameraPreview"
         android:layout_width="411dp"
-        android:layout_height="572dp"
+        android:layout_height="590dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -21,8 +21,8 @@
         android:id="@+id/btnHelp"
         android:layout_width="35dp"
         android:layout_height="35dp"
-        android:layout_marginStart="360dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginStart="340dp"
+        android:layout_marginTop="20dp"
         android:background="@drawable/question"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -32,7 +32,7 @@
         android:layout_width="45dp"
         android:layout_height="45dp"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="12dp"
+        android:layout_marginTop="15dp"
         android:background="@drawable/arrow_left"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
