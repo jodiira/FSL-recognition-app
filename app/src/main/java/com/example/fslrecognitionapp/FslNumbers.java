@@ -68,6 +68,8 @@ public class FslNumbers extends AppCompatActivity implements RecyclerViewInterfa
 
     private void setUpFslNumberModelArrayList() {
         String[] fslNumber = getResources().getStringArray(R.array.fsl_number);
+        String[] fslTagalogNumber = getResources().getStringArray(R.array.fsl_number_tagalog);
+        String[] fsldefinition = getResources().getStringArray(R.array.fsl_number_description);
         int[] imageResources = {
                 R.drawable.one, R.drawable.two, R.drawable.three, R.drawable.four, R.drawable.five,
                 R.drawable.six, R.drawable.seven, R.drawable.eight, R.drawable.nine, R.drawable.ten,
@@ -75,9 +77,15 @@ public class FslNumbers extends AppCompatActivity implements RecyclerViewInterfa
         };
 
         for (int i = 0; i < fslNumber.length; i++) {
-            fslNumberModelArrayList.add(new FslNumberModel(fslNumber[i], imageResources[i]));
+
+            if(i < fslTagalogNumber.length && i < fsldefinition.length){
+                fslNumberModelArrayList.add(new FslNumberModel(fslNumber[i], imageResources[i], fslTagalogNumber[i], fsldefinition[i]));
+            }else{
+                fslNumberModelArrayList.add(new FslNumberModel(fslNumber[i], imageResources[i], "", ""));
+            }
         }
     }
+
 
     @Override
     public void onItemClick(int position) {
@@ -85,6 +93,8 @@ public class FslNumbers extends AppCompatActivity implements RecyclerViewInterfa
         Intent intent = new Intent(FslNumbers.this, FslNumberDetails.class);
         intent.putExtra("selected_word", selectedNumberModel.getFslNumber());
         intent.putExtra("selected_image_resource", selectedNumberModel.getImageResource());
+        intent.putExtra("selected_tagalog_number", selectedNumberModel.getTagalogNumber());
+        intent.putExtra("selected_definition", selectedNumberModel.getDefinitionNumber());
         startActivity(intent);
     }
 }

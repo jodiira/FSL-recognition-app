@@ -70,6 +70,8 @@ public class FslPhrases extends AppCompatActivity  implements RecyclerViewInterf
 
     private void setUpFslPhrasesModelArrayList() {
         String[] fslPhrases = getResources().getStringArray(R.array.fsl_phrases);
+        String[] fslPhraseTagalog = getResources().getStringArray(R.array.fsl_phrase_tagalog);
+        String[] fslCategory = getResources().getStringArray(R.array.fsl_phrase_category);
         int[] videoResources = {
                 R.raw.are_you_student_video, R.raw.again_please_video, R.raw.absolutely_i_will_teach_you_video,
                 R.raw.come_to_eat_together_video, R.raw.come_learn_fsl_video, R.raw.come_lets_eat_video,
@@ -99,8 +101,15 @@ public class FslPhrases extends AppCompatActivity  implements RecyclerViewInterf
                 // Add more image resource IDs for each phrase
         };
 
+
         for (int i = 0; i < fslPhrases.length; i++) {
-            fslPhrasesModelArrayList.add(new FslPhrasesModel(fslPhrases[i], videoResources[i]));
+            // Check if the current index is within the bounds of the other arrays
+            if (i < fslPhraseTagalog.length && i < fslCategory.length) {
+                fslPhrasesModelArrayList.add(new FslPhrasesModel(fslPhrases[i], videoResources[i], fslPhraseTagalog[i], fslCategory[i]));
+            } else {
+                // Handle cases where there may not be a corresponding Tagalog translation or description
+                fslPhrasesModelArrayList.add(new FslPhrasesModel(fslPhrases[i], videoResources[i], "", ""));
+            }
         }
     }
 
@@ -110,6 +119,8 @@ public class FslPhrases extends AppCompatActivity  implements RecyclerViewInterf
         Intent intent = new Intent(FslPhrases.this, FslPhraseDetails.class);
         intent.putExtra("selected_phrase", selectedPhraseModel.getFslPhrase());
         intent.putExtra("selected_video_resource", selectedPhraseModel.getVideoResource());
+        intent.putExtra("selected_tagalog_phrase", selectedPhraseModel.getFslTagalogPhrase());
+        intent.putExtra("selected_category", selectedPhraseModel.getCategory());
         startActivity(intent);
     }
 }

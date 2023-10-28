@@ -1,5 +1,6 @@
 package com.example.fslrecognitionapp;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.Window;
 import android.view.WindowManager;
@@ -7,8 +8,11 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.AppCompatButton;
 
 public class FslAlphabetDetails extends AppCompatActivity {
+
+    private AppCompatButton btnBackVbAlphabet;
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -16,6 +20,13 @@ public class FslAlphabetDetails extends AppCompatActivity {
         this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
         getSupportActionBar().hide();
         setContentView(R.layout.activity_fsl_alphabet_details);
+
+        btnBackVbAlphabet = findViewById(R.id.btnBackVbAlphabet);
+        btnBackVbAlphabet.setOnClickListener((v)->{
+            Intent intent = new Intent(FslAlphabetDetails.this, FslAlphabet.class);
+            startActivity(intent);
+        });
+
 
         // Get the selected word and image resource ID from the Intent extra
         String selectedAlphabet = getIntent().getStringExtra("selected_word");

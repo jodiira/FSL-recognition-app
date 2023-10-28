@@ -182,7 +182,6 @@
 
     </string-array>
 
-
     <string-array name="fsl_phrases">
         <item>Are you Student?</item>
         <item>Again, please</item>
@@ -228,8 +227,8 @@
         <item>Just a little</item>
         <item>Keep working</item>
         <item>May I go to the comfort room?</item>
-        <item>No I am not student</item>
-        <item>No teacher</item>
+        <item>No, I am not student, i\'m working.</item>
+        <item>No, teacher</item>
         <item>Never give up</item>
         <item>Oh I\'m just tired</item>
         <item>Please come here</item>
@@ -262,7 +261,6 @@
         <item>Yes teacher</item>
         <item>You are important</item>
     </string-array>
-
 
     <string-array name="fsl_alphabet">
         <item>Aa</item>
@@ -305,6 +303,733 @@
         <item>9</item>
         <item>10</item>
     </string-array>
+
+    <string-array name="fsl_word_tagalog">
+        <item>Filipino - Takot \n[Adjective]</item>
+        <item>Filipino - Abril \n[noun]</item>
+        <item>Filipino - agosto \n[noun]</item>
+        <item>Filipino - payagan \n[verb]</item>
+        <item>Filipino- tiyahin \n[noun]</item>
+        <item>Filipino - ampon na anak \n[noun]</item>
+        <item>Filipino- arkitekto \n[noun]</item>
+        <item>Filipino - galit \n[adjective]</item>
+        <item>Filipino - malaki \n[adjective]</item>
+        <item>Filipino - mapagmayabang \n[adjective]</item>
+        <item>Filipino - itim \n[adjective]</item>
+        <item>Filipino - asul \n[adjective]</item>
+        <item>Filipino - kayumangi \n[adjective]</item>
+        <item>Filipino - masama \n[adjective]</item>
+        <item>Filipino - maganda \n[adjective]</item>
+        <item>Filipino - mapait \n[adjective]</item>
+        <item>Filipino - maliwanag \n[adjective]</item>
+        <item>Filipino - bumili \n[verb]</item>
+        <item>Filipino - naiinip \n[adjective]</item>
+        <item>Filipino - paligo \n[noun]</item>
+        <item>Filipino - magdala \n[verb]</item>
+        <item>Filipino - sanggol \n[noun]</item>
+        <item>Filipino - magreklamo \n[verb]</item>
+        <item>Filipino - mura \n[adjective]</item>
+        <item>Filipino - malinis \n[adjective]</item>
+        <item>Filipino - tama \n[adjective]</item>
+        <item>Filipino - malamig \n[adjective]</item>
+        <item>Filipino - nalilito \n[adjective]</item>
+        <item>Filipino - pakikiramay \n[noun]</item>
+        <item>Filipino - pagbati \n[noun]</item>
+        <item>Filipino - kusinero \n[noun]</item>
+        <item>Filipino - mga bata \n[noun]</item>
+        <item>Filipino - pinsan \n[noun]</item>
+        <item>Filipino - tanga \n[adjective]</item>
+        <item>Filipino - disyembre \n[noun]</item>
+        <item>Filipino - madilim \n[adjective]</item>
+        <item>Filipino - masarap \n[adjective]</item>
+        <item>Filipino - iba \n[adjective]</item>
+        <item>Filipino - mahirap \n[adjective]</item>
+        <item>Filipino - marumi \n[adjective]</item>
+        <item>Filipino - tuyo \n[adjective]</item>
+        <item>Filipino - binging palakpak \n[noun]</item>
+        <item>Filipino - anak na babae \n[noun]</item>
+        <item>Filipino - mananayaw \n[noun]</item>
+        <item>Filipino - doktor \n[noun]</item>
+        <item>Filipino - damdamin \n[noun]</item>
+        <item>Filipino - magsaya \n[verb]</item>
+        <item>Filipino - madali \n[adjective]</item>
+        <item>Filipino - mahal \n[adjective]</item>
+        <item>Filipino - nahihiya \n[adjective]</item>
+        <item>Filipino - nasasabik \n[adjective]</item>
+        <item>Filipino - yakap \n[noun/verb]</item>
+        <item>Filipino - dismaya \n[adjective]</item>
+        <item>Filipino - Biyernes \n[noun]</item>
+        <item>Filipino - Pebrero \n[noun]</item>
+        <item>Filipino - mali \n[adjective]</item>
+        <item>Filipino - malayo \n[adjective]</item>
+        <item>Filipino - mabilis \n[adjective]</item>
+        <item>Filipino - kakaunti \n[adjective]</item>
+        <item>Filipino - puno \n[adjective]</item>
+        <item>Filipino - hangal, mangmang \n[adjective]</item>
+        <item>Filipino - ama, tatay, papa \n[noun]</item>
+        <item>Filipino - Pamilya \n[noun]</item>
+        <item>Filipino - berde, luntian \n[adjective]</item>
+        <item>Filipino - Ginto, \n[adjective]</item>
+        <item>Filipino - abo \n[adjective]</item>
+        <item>Filipino - mabuti \n[adjective]</item>
+        <item>Filipino - masaya \n[noun]</item>
+        <item>Filipino - paalam \n[noun]</item>
+        <item>Filipino - swerte \n[expression]</item>
+        <item>Filipino - lola \n[noun]</item>
+        <item>Filipino - lolo \n[noun]</item>
+        <item>Filipino - apo \n[noun]</item>
+        <item>Filipino - ninang \n[noun]</item>
+        <item>Filipino - ninong \n[noun]</item>
+        <item>Filipino - poot, galit, muhi, suklam, ayaw \n[verb]</item>
+        <item>Filipino - sakit, masakit, masaktan \n[verb</item>
+        <item>Filipino - mahirap, matigas \n[adjective]</item>
+        <item>Filipino - mapagkumbaba \n[adjective]</item>
+        <item>Filipino - gwapo \n[adjective]</item>
+        <item>Filipino - mabigat \n[adjective]</item>
+        <item>Filipino - mataas \n[adjective]</item>
+        <item>Filipino - matapat \n[adjective]</item>
+        <item>Filipino - mainit \n[adjective]</item>
+        <item>Filipino - gutom \n[adjective]</item>
+        <item>Filipino - masaya \n[adjective]</item>
+        <item>Filipino - asawa (lalaki) \n[noun]</item>
+        <item>Filipino - mahalaga \n[adjective]</item>
+        <item>Filipino - enero \n[noun]</item>
+        <item>Filipino - hulyo \n[noun]</item>
+        <item>Filipino - hunyo \n[noun]</item>
+        <item>Filipino - selos, inggit \n[adjective]</item>
+        <item>Filipino - bata \n[noun]</item>
+        <item>Filipino - sinungaling \n[noun]</item>
+        <item>Filipino - magaan (adjective), ilaw (noun) \n[noun]</item>
+        <item>Filipino - mababa \n[adjective]</item>
+        <item>Filipino - mahal, pag-ibig \n[noun/adjective]</item>
+        <item>Filipino - hayaan, pabayaan, payagan \n[verb]</item>
+        <item>Filipino - lunes \n[noun]</item>
+        <item>Filipino - marso \n[noun]</item>
+        <item>Filipino - mayo \n[noun]</item>
+        <item>Filipino - buwan \n[noun]</item>
+        <item>Filipino - marami \n[adjective]</item>
+        <item>Filipino - ina, nanay, mama \n[noun]</item>
+        <item>Filipino - kasal \n[noun]</item>
+        <item>Filipino - nobyembre \n[noun]</item>
+        <item>Filipino - malapit \n[adjective/preposition]</item>
+        <item>Filipino - bago \n[adjective]</item>
+        <item>Filipino - maingay \n[adjective]</item>
+        <item>Filipino - kinakabahan, nerbiyoso \n[adjective]</item>
+        <item>Filipino - pamangkin (lalaki) \n[noun]</item>
+        <item>Filipino - pamangkin (babae) \n[noun]</item>
+        <item>Filipino - kahel, dalandan \n[noun/adjective]</item>
+        <item>Filipino - Oktubre \n[noun]</item>
+        <item>Filipino - matanda \n[adjective]</item>
+        <item>Filipino - ate,  nakakatandang kapatid na babae \n[noun]</item>
+        <item>Filipino - kuya, nakakatandang kapatid na lalaki \n[noun]</item>
+        <item>Filipino - opo \n[noun]</item>
+        <item>Filipino - rosas \n[noun/adjective]</item>
+        <item>Filipino - lila \n[noun/adjective]</item>
+        <item>Filipino - mapagmataas, mapagmalaki, suplado, mayabang \n[adjective]</item>
+        <item>Filipino - permiso \n[verb]</item>
+        <item>Filipino - buntis, nagdadalang tao \n[adjective]</item>
+        <item>Filipino - magulang \n[noun]</item>
+        <item>Filipino - Litratista o retratista, potographo \n[noun]</item>
+        <item>Filipino - propesor, guro \n[noun]</item>
+        <item>Filipino - tahimik \n[adjective]</item>
+        <item>Filipino - bahaghari \n[noun]</item>
+        <item>Filipino - pula \n[adjective]</item>
+        <item>Filipino - takot. \n[adjective]</item>
+        <item>Filipino - maliit \n[adjective]</item>
+        <item>Filipino - matalino \n[adjective]</item>
+        <item>Filipino - malambot \n[adjective]</item>
+        <item>Filipino - pilak \n[adjective]</item>
+        <item>Filipino - sabado \n[noun]</item>
+        <item>Filipino - linggo \n[noun]</item>
+        <item>Filipino - septyembre \n[noun]</item>
+        <item>Filipino - maalat \n[adjective]</item>
+        <item>Filipino - pareho \n[adjective]</item>
+        <item>Filipino - mabagal \n[adjective]</item>
+        <item>Filipino - maasim \n[adjective]</item>
+        <item>Filipino - maanghang \n[adjective]</item>
+        <item>Filipino - malakas \n[adjective]</item>
+        <item>Filipino - matamis \n[adjective]</item>
+        <item>Filipino - malungkot \n[adjective]</item>
+        <item>Filipino - mahiyain \n[adjective]</item>
+        <item>Filipino - may sakit \n[adjective]</item>
+        <item>Filipino - antok \n[adjective]</item>
+        <item>Filipino - nagulat \n[adjective]</item>
+        <item>Filipino - estudyante \n[noun]</item>
+        <item>Filipino - anak na lalaki \n[noun]</item>
+        <item>Filipino - Stepbrother \n[noun]</item>
+        <item>Filipino - stepsister \n[noun]</item>
+        <item>Filipino - kayumangi \n[adjective]</item>
+        <item>Filipino - Huwebes \n[noun]</item>
+        <item>Filipino - Martes \n[noun]</item>
+        <item>Filipino - totoo \n[adjective</item>
+        <item>Filipino - pagod \n[adjective]</item>
+        <item>Filipino - guro \n[noun]</item>
+        <item>Filipino - tinedyer, bagets, binatilyo \n[noun]</item>
+        <item>Filipino - tiyo \n[noun]</item>
+        <item>Filipino - pangit \n[adjective]</item>
+        <item>Filipino - puti \n[adjective]</item>
+        <item>Filipino - Miyerkules \n[noun]</item>
+        <item>Filipino - mahina \n[adjective]</item>
+        <item>Filipino - basa \n[adjective]</item>
+        <item>Filipino - mali \n[adjective]</item>
+        <item>Filipino - alala \n[noun/verb]</item>
+        <item>Filipino - Asawa na babae \n[noun]</item>
+        <item>Filipino - trabaho \n[adjective/noun]</item>
+        <item>Filipino - dilaw \n[adjective]</item>
+        <item>Filipino - taon \n[noun]</item>
+        <item>Filipino - oo \n[interjection]</item>
+        <item>Filipino - bata \n[adjective/noun]</item>
+
+
+    </string-array>
+
+    <string-array name="fsl_word_descriptions">
+        <item>Feeling fear or anxiety; frightened.</item>
+        <item>The fourth month of the year, in the northern hemisphere usually considered the first month of spring.</item>
+        <item>The eighth month of the year, in the northern hemisphere usually considered the last month of summer.</item>
+        <item>Give (someone) permission to do something.</item>
+        <item>The sister of one\'s father or mother or the wife of one\'s uncle.</item>
+        <item>A child who is legally taken into the family and brought up as one\'s own.</item>
+        <item>A person who is qualified to design buildings and to plan and supervise their </item>
+        <item>Having a strong feeling of or showing annoyance, displeasure, or hostility.</item>
+        <item>Of considerable size, extent, or intensity.</item>
+        <item>Showing excessive pride and self-satisfaction in one\'s achievements, possessions, or abilities.</item>
+        <item>Of the very darkest color; the opposite of white; colored like coal, due to the absence or absorption of light.</item>
+        <item>Of a color intermediate between green and violet, as of the sky or sea on a sunny day.</item>
+        <item>Of a color produced by mixing red, yellow, and blue, as of dark wood or rich soil.</item>
+        <item>Of poor quality or a low standard.</item>
+        <item>Pleasing the senses or mind aesthetically.</item>
+        <item>Having a sharp, pungent taste or smell; not sweet.</item>
+        <item>Giving out or reflecting a lot of light; shining.</item>
+        <item>Obtain in exchange for payment.</item>
+        <item>Feeling weary and uninterested by lack of interest in one\'s current activity.</item>
+        <item>An act of washing oneself for hygiene purposes.</item>
+        <item>Take or go with (someone or something) to a place.</item>
+        <item>A very young child, especially one newly or recently born.</item>
+        <item>Express dissatisfaction or annoyance about something.</item>
+        <item>Low in price; worth more than its cost.</item>
+        <item>Free from dirt, marks, or stains.</item>
+        <item>Free from error; in accordance with fact or truth.</item>
+        <item>Of or at a low or relatively low temperature, especially when compared with the human body.</item>
+        <item>Unable to think clearly; bewildered.</item>
+        <item>An expression of sympathy, especially on the occasion of a death.</item>
+        <item>The action or process of congratulating or giving someone good wishes on a significant achievement.</item>
+        <item>A professional cook, typically the chief cook in a restaurant or hotel.</item>
+        <item>Plural form of "bata," referring to more than one child.</item>
+        <item>The child of one\'s uncle or aunt.</item>
+        <item>Lacking the ability to speak.</item>
+        <item>The twelfth month of the year, in the northern hemisphere usually considered the first month of winter.</item>
+        <item>Having very little or no light.</item>
+        <item>Highly pleasant to the taste.</item>
+        <item>Not the same as another or each other; unlike in nature, form, or quality.</item>
+        <item>Needing much effort or skill to accomplish, deal with, or understand.</item>
+        <item>Covered or marked with an unclean substance.</item>
+        <item>Free from moisture or liquid; not wet or moist.</item>
+        <item>A theatrical clap with no sound, mimicking applause for someone who is deaf.</item>
+        <item>A female child.</item>
+        <item>A person who dances, especially as a profession or for entertainment.</item>
+        <item>A qualified practitioner of medicine; a physician.</item>
+        <item>A natural instinctive state of mind deriving from one\'s circumstances, mood, or relationships with others.</item>
+        <item>Take delight or pleasure in (an activity or occasion).</item>
+        <item>Achieved without great effort; presenting few difficulties.</item>
+        <item>Costing a lot of money.</item>
+        <item>Feeling self-conscious, ashamed, or awkward.</item>
+        <item>Very enthusiastic and eager.</item>
+        <item>An act of holding someone closely in one\'s arms.</item>
+        <item>Feeling or expressing distress and annoyance resulting from an inability to change or achieve something.</item>
+        <item>The day of the week between Thursday and Saturday.</item>
+        <item>The second month of the year, in the northern hemisphere usually considered the last month of winter.</item>
+        <item>Not according with truth or fact; incorrect.</item>
+        <item>At, to, or by a great distance; not near.</item>
+        <item>Moving or capable of moving at high speed.</item>
+        <item>A small number of.</item>
+        <item>Containing or holding as much or as many as possible; having no empty space.</item>
+        <item>(Of a person or action) lacking good sense or judgment; unwise.</item>
+        <item>A male parent; a man in relation to his child or children.</item>
+        <item>A group consisting of parents and their children. \nall the descendants of a common ancestor.</item>
+        <item>Having the color like that of growing grass.</item>
+        <item>A yellow precious metal</item>
+        <item>Having a color intermediate between black and white, as of ashes or an overcast sky.</item>
+        <item>Morally excellent; virtuous; righteous.</item>
+        <item>Feeling pleasure, joy, or delight.</item>
+        <item>A concluding remark or gesture at parting</item>
+        <item>Used to wish someone luck or success.</item>
+        <item>The mother of one\'s father or mother.</item>
+        <item>The father of one\'s father or mother.</item>
+        <item>A child of one\'s son or daughter.</item>
+        <item>A woman who presents a child at baptism and promises to take responsibility for their religious education</item>
+        <item>A man who presents a child at baptism and promises to take responsibility for their religious education.</item>
+        <item>To feel intense or passionate dislike for someone or something.</item>
+        <item>To cause physical pain or injury. \n[noun/adjective] \nphysical or emotional pain or injury.</item>
+        <item>Fifficult, solid, firm, and rigid; not easily broken, bent, or pierced.</item>
+        <item>Having a modest or low view of one\'s importance; unpretentious.</item>
+        <item>A good looking man.</item>
+        <item>Having great weight; difficult to lift or move.</item>
+        <item>Having a great distance from the bottom to the top.</item>
+        <item>Free of deceit and untruthfulness; sincere.</item>
+        <item>Having a high temperature; feeling a sensation of heat.</item>
+        <item>Having a desire, craving, or need for food.</item>
+        <item>Feeling or showing joy and contentment.</item>
+        <item>A male partner in a marriage.	</item>
+        <item>Having great significance or value; deserving attention or consideration.</item>
+        <item>The first month of the year.</item>
+        <item>The seventh month of the year.</item>
+        <item>The sixth month of the year.</item>
+        <item>Feeling or showing envy or suspicion of someone\'s achievements or advantages.</item>
+        <item>A child; a young person.</item>
+        <item>A person who tells lies or falsehoods.</item>
+        <item>The natural agent that stimulates sight and makes things visible. \n [adjective] \n not heavy; easy to lift or carry.</item>
+        <item>Not high or tall; situated close to or near the ground.</item>
+        <item>A strong affection or deep feeling of attachment; to have a deep affection for someone.</item>
+        <item>To allow or permit; to not prevent or hinder.</item>
+        <item>The day of the week before Tuesday and following Sunda</item>
+        <item>The third month of the year.</item>
+        <item>The fifth month of the year.</item>
+        <item>A period of time that is approximately one-twelfth of a year</item>
+        <item>A large number; a significant quantity of something</item>
+        <item>A female parent; a woman in relation to her child or children.</item>
+        <item>The legally or formally recognized union of two people as partners in a personal relationship.</item>
+        <item>The eleventh month of the year</item>
+        <item>At a short distance away in space or time; close to.</item>
+        <item>Recently made, created, or begun; not existing before.</item>
+        <item>Making a lot of noise; loud.</item>
+        <item>Easily agitated or anxious.</item>
+        <item>A son of one\'s brother or sister.</item>
+        <item>A daughter of one\'s brother or sister.</item>
+        <item>A color between red and yellow in the spectrum; a citrus fruit.</item>
+        <item>The tenth month of the year</item>
+        <item>Having lived for a long time; not young</item>
+        <item>A female sibling who is older in age</item>
+        <item>A male sibling who is older in age</item>
+        <item>A polite way of saying "yes" or showing respect and acknowledgment.</item>
+        <item>A color that is a pale tint of red; often associated with femininity</item>
+        <item>A color intermediate between red and blue</item>
+        <item>Feeling deep pleasure or satisfaction as a result of one\'s own achievements or those of someone with whom one is closely associated.</item>
+        <item>Give authorization or consent to (someone) to do something. \n[noun] \n An official document giving someone authorization to do something.</item>
+        <item>(Of a woman or female animal) having a child or young developing in the uterus.</item>
+        <item>A father or mother; one that begets or brings forth offspring.</item>
+        <item>A person who takes photographs, especially as a job.</item>
+        <item>A teacher of the highest rank in a college or university.</item>
+        <item>Making little or no noise. \n[noun] \n Absence of noise or bustle; silence; calm. \n[verb]</item>
+        <item>An arch of colors formed in the sky in certain circumstances, caused by the refraction and dispersion of the sun\'s light by rain or other water droplets in the atmosphere. \n any display of the colors of the spectrum produced by dispersion of light. \n a wide range or variety of related and typically colorful things.</item>
+        <item>Of a color at the end of the spectrum next to orange and opposite violet, as of blood, fire, or rubies. \n[noun] \n Red color or pigment; a red thing.</item>
+        <item>Feeling fearful;  frightened.</item>
+        <item>Of a size that is less than normal or usual.</item>
+        <item>Having or showing a quick-witted intelligence.</item>
+        <item>Easy to mold, cut, compress, or fold; not hard or firm to the touch.</item>
+        <item>Made of or colored like silver. \n[noun] \n-a shiny gray-white color or appearance like that of silver. \n-a precious shiny grayish-white metal, the chemical element of atomic number 47. \n[verb] \n-coat or plate with silver.</item>
+        <item>The day of the week before Sunday and following Friday, and (together with Sunday) forming part of the weekend.</item>
+        <item>The day of the week before Monday and following Saturday, observed by Christians as a day of rest and religious worship and (together with Saturday) forming part of the weekend.</item>
+        <item>The ninth month of the year, in the northern hemisphere usually considered the first month of autumn.</item>
+        <item>Tasting of, containing, or preserved with salt.</item>
+        <item>Identical in kind, quality, or nature.</item>
+        <item>Moving or operating at a low speed.</item>
+        <item>Having an acidic taste, like that of a lemon or vinegar.</item>
+        <item>Having a strong, pungent, or hot flavor.</item>
+        <item>Having the power to move heavy weights or perform other physically demanding tasks.</item>
+        <item>Having the pleasant taste characteristic of sugar or honey; not salty, sour, or bitter.</item>
+        <item>Feeling or showing sorrow; unhappy.</item>
+        <item>Being reserved or having a lack of self-confidence.</item>
+        <item>Affected by physical or mental illness.</item>
+        <item>Feeling a need for sleep or rest.</item>
+        <item>Feeling or showing shock or astonishment.</item>
+        <item>A person who is studying, especially at a school or college.</item>
+        <item>A male child in relation to his parents.</item>
+        <item>A son of one\'s stepmother or stepfather by a previous marriage.</item>
+        <item>a daughter of one\'s stepmother or stepfather by a previous marriage.</item>
+        <item>having a brownish color from exposure to the sun.</item>
+        <item>the day of the week between Wednesday and Friday.</item>
+        <item>the day of the week between Monday and Wednesday.</item>
+        <item>in accordance with fact or reality.</item>
+        <item>in need of rest or sleep; weary.</item>
+        <item>a person who teaches, especially in a school.</item>
+        <item>a person aged between 13 and 19 years old.</item>
+        <item>the brother of one\'s father or mother or the husband of one\'s aunt.</item>
+        <item>unpleasant or repulsive in appearance.</item>
+        <item>of the color of milk or fresh snow; the opposite of black.</item>
+        <item>the day of the week between Tuesday and Thursday.</item>
+        <item>lacking the power to perform physically demanding tasks.</item>
+        <item>covered or saturated with liquid, such as water.</item>
+        <item>not in accordance with what is correct or true.</item>
+        <item>a state of anxiety or uncertainty over actual or potential problems.</item>
+        <item>a married woman considered in relation to her spouse.</item>
+        <item>activity involving mental or physical effort done to achieve a purpose or result.</item>
+        <item>having the color of ripe lemons or egg yolks.</item>
+        <item>the time taken by the earth to make one revolution around the sun.</item>
+        <item>used to give an affirmative response. </item>
+        <item>having lived for only a short time; not fully grown.</item>
+
+
+    </string-array>
+
+    <string-array name="fsl_word_example">
+        <item>-I am afraid of the dark.\n-Takot ako sa dilim.</item>
+        <item>-My birthday is in April.\n-Ang kaarawan ko ay sa buwan ng Abril.</item>
+        <item>-We are planning a trip in August.\n-Nagpaplano kami ng biyahe sa buwan ng Agosto.</item>
+        <item>-Will you allow me to join the team?\n-Papayagan mo ba akong sumali sa team?</item>
+        <item>-My aunt is coming to visit us.\n-Darating ang tiyahin ko para bisitahin kami.</item>
+        <item>-They are proud parents of an adopted child.\n-Proud parents sila ng ampon na anak.</item>
+        <item>-My father is an architect, not an engineer.\n-Arkitekto ang tatay ko, hindi inhinyero.</item>
+        <item>-She was angry at the rude behavior.\n-Galit siya sa bastos na ugali.</item>
+        <item>-That\'s a big house. \n-Malaking bahay iyon.</item>
+        <item>-He became boastful after winning the competition.\n-Naging mapagmayabang siya matapos manalo sa paligsahan.</item>
+        <item>-Her dress is black. \n-Itim ang kanyang damit.</item>
+        <item>-The sky is so blue today. \n-Sobrang asul ng langit ngayon.</item>
+        <item>-He has brown eyes. \n-May kayumangi siyang mga mata.</item>
+        <item>-That was a bad movie. \n-Masamang pelikula iyon.</item>
+        <item>-The sunset is beautiful. \n-Maganda ang paglubog ng araw.</item>
+        <item>-The medicine tasted bitter. \n-Mapait ang lasa ng gamot.</item>
+        <item>-The stars are bright tonight. \n-Maliwanag ang mga bituin ngayong gabi.</item>
+        <item>-I need to buy groceries. \n-Kailangan kong bumili ng groceries.</item>
+        <item>-I\'m bored, let\'s do something fun. \n-Naiinip ako, mag-imbento tayo ng kakaibang bagay.</item>
+        <item>-I\'ll take a bath before dinner. \n-Magpapaligo muna ako bago magdinner.</item>
+        <item>-Don\'t forget to bring your umbrella. \n-Huwag kalimutan magdala ng payong.</item>
+        <item>-The baby is sleeping. \n-Tulog ang sanggol.</item>
+        <item>-If you have a concern, don\'t hesitate to complain. \n-Kung mayroon kang alalahanin, huwag mag-atubiling magreklamo.</item>
+        <item>-I found a cheap restaurant for lunch. \n-Nakakita ako ng muraang restaurant para sa lunch.</item>
+        <item>-The house is clean and tidy. \n-Malinis at maayos ang bahay.</item>
+        <item>-Your answer is correct. \n-Tama ang iyong sagot.</item>
+        <item>-Bring a jacket, it\'s cold outside. \n-Magdala ka ng jacket, malamig sa labas.</item>
+        <item>-The instructions were confusing. \n-Nakakalito ang mga tagubilin.</item>
+        <item>-Our deepest condolences for your loss. \n-Ang aming taos-pusong pakikiramay sa iyong pagkawala.</item>
+        <item>-Congratulations on your graduation! \n-Pagbati sa iyong pagtatapos! </item>
+        <item>-The chef prepared a delicious meal. \n-Ang kusinero ay nagluto ng masarap na pagkain.</item>
+        <item>-The park is full of children playing. \n-Punong-puno ng mga bata ang parke na naglalaro.</item>
+        <item>-My cousin is visiting from another city. \n-Ang pinsan ko ay nagbabakasyon mula sa ibang lungsod.</item>
+        <item>-It\'s not dumb to ask questions. \n-Hindi tanga ang magtanong.</item>
+        <item>-December is a festive month. \n-Ang Disyembre ay isang masayang buwan.</item>
+        <item>-It\'s too dark to see anything. \n-Sobrang madilim para makita ang kahit ano.</item>
+        <item>-This cake is delicious. \n-Ang cake na ito ay masarap.</item>
+        <item>-We have different tastes in music. \n-Magkaiba ang aming panlasa sa musika.</item>
+        <item>-Learning a new language can be difficult. \n-Ang pag-aaral ng bagong wika ay maaaring mahirap.</item>
+        <item>-Please wash your hands; they\'re dirty. \n-Mangyaring hugasan ang iyong mga kamay; marumi na ang mga ito.</item>
+        <item>-Hang the clothes outside to dry. \n-Ibitin ang mga damit sa labas para matuyo.</item>
+        <item>-The audience gave a deaf-clap for the performance. \n-Ang audience ay nagbigay ng bingi palakpak para sa performance.</item>
+        <item>-She is a proud mother of a daughter. \n-Proud mother siya ng isang anak na babae.</item>
+        <item>-The dancer showcased her skills on stage. \n-Ipinalabas ng mananayaw ang kanyang mga kasanayan sa entablado.</item>
+        <item>-The doctor will see you now. \n-Makikita ka na ng doktor.</item>
+        <item>-Expressing your emotions is important. \n-Mahalaga ang pagpapahayag ng iyong damdamin.</item>
+        <item>-I hope you enjoy the party. \n-Sana magsaya ka sa party.</item>
+        <item>-Solving this puzzle is easy. \n-Madali lang ang paglutas ng puzzle na ito.</item>
+        <item>-The designer bag is too expensive. \n-Sobrang mahal ng designer bag na ito.</item>
+        <item>-He felt embarrassed after the mistake. \n-Nahihiya siya matapos ang pagkakamali.</item>
+        <item>-The children were excited for the field trip. \n-Ang mga bata ay sobrang nasasabik para sa field trip.</item>
+        <item>-They shared a warm embrace. \n-Nagkaruon sila ng mainit na yakap.</item>
+        <item>-I get frustrated when things don\'t go as planned. \n-Nadidismaya ako kapag hindi natutupad ang plano.</item>
+        <item>-We\'ll meet on Friday for lunch. \n-Magkikita tayo sa Biyernes para sa lunch.</item>
+        <item>-Valentine\'s Day is in February. \n-Ang Valentine\'s Day ay nasa Pebrero.</item>
+        <item>-Be careful of false information. \n-Mag-ingat sa maling impormasyon.</item>
+        <item>-The beach is far from here. \n-Malayo ang beach mula dito.</item>
+        <item>-He runs fast. \n-Mabilis siyang tumakbo</item>
+        <item>-There are only a few apples left. \n-Kakaunti lang ang natirang mansanas.</item>
+        <item>-The jar is full of candies. \n-Puno ng kendi ang garapon.</item>
+        <item>-I was foolish to believe in you. \n-Napahangal ko ng maniwala sayo.</item>
+        <item>-My dad works as a teacher. \n-Ang aking tatay ay nagtatrabaho bilang guro.</item>
+        <item>-Our family enjoys spending time together. \n-Ang pamilya namin ay masaya kapag magkasama.</item>
+        <item>-The leaves are color green. \n-Berde ang mga dahon.</item>
+        <item>-The necklace if pure Gold. \n-The marriage ring is made of 24-Carat Gold</item>
+        <item>-The sky is gray today. \n-Abo ang kulay ng langit ngayon.</item>
+        <item>-She has a good heart. \n-May mabuting puso siya.</item>
+        <item>-I\'m glad to see you. \n-Masaya akong makita ka.</item>
+        <item>-Say goodbye to your friends. \n-Mag paalam ka sa mga kaibigan mo.</item>
+        <item>-Goodluck on your exam. \n-Suwertehin ka sana sa iyong pagsusulit.</item>
+        <item>-My grandmother tells the best stories. \n-Magaling magkuwento si lola.</item>
+        <item>-My grandfather loves gardening. \n-Mahilig sa hardin si lolo.</item>
+        <item>-My grandchild is very playful. \n-Masyadong makulit ang aking apo.</item>
+        <item>-My godmother always gives me a gift every Christmas. \n-Binibigyan ako lagi ng regalo ng aking ninang kapag pasko.</item>
+        <item>-My godfather always supported my decisions. \n-Laging sumusuporta sa aking desisyon ang aking ninong.</item>
+        <item>-I hate cockroaches. \n-Kinakaayawan ko ang mga ipis.</item>
+        <item>-I feel hurt when I failed the exam. \n-Masakit ang aking nadama ng bumagsak ako sa pagsusulit.</item>
+        <item>-Studying for the exam is hard. \n-Mahirap mag-aral para sa pagsusulit.</item>
+        <item>-Despite his successful career, he remains humble. \n-Kahit matagumpay na karera, mapagkumbaba pa rin siya.</item>
+        <item>-My idol is very handsome. \n-Ang aking idolo ay sobrang gwapo.</item>
+        <item>-The box is too heavy for me to carry. \n-Masyadong mabigat ang kahon para buhatin ko.</item>
+        <item>-The mountain is very high. \n-Ang bundok ay napakataas.</item>
+        <item>-She is known for her honest nature. \n-Siya ay kilala sa kanyang pagiging tapat.</item>
+        <item>-It\'s hot in the Philippines. \n-Mainit sa Pilipinas.</item>
+        <item>-I\'m so hungry. \n-Gutom na gutom na ako.</item>
+        <item>-I\'m happy when I\'m with my friends. \n-Masaya ako kapag kasama ko ang mga kaibigan ko.</item>
+        <item>-Her husband is a doctor. \n-Ang asawa niya ay doktor.</item>
+        <item>-This is an important decision. \n-Ito ay mahalagang desisyon</item>
+        <item>-My birthday is in January. \n-Ang kaarawan ko ay sa buwan ng Enero.</item>
+        <item>-My friend\'s birthday is celebrated in July.  \n-Ang kaarawan ng aking kaibigan ay ipinagdiriwang sa Hulyo.</item>
+        <item>-Independence Day is celebrated in June. \n-Ang Araw ng Kalayaan ay ipinagdiriwang sa June.</item>
+        <item>-He gets jealous when she talks to other guys. \n-Seloso siya kapag nakikipag-usap siya sa ibang mga lalaki.</item>
+        <item>-The kids are playing in the park. \n-Ang mga bata ay naglalaro sa parke.</item>
+        <item>-He wasn\'t a good liar. \n-Hindi siya magaling magsinungaling.</item>
+        <item>-I can lift the box because it is light. \n-Kaya kong buhatin ang kahot dahil magaan lang.</item>
+        <item>-The chair is low, so it\'s comfortable. \n-Mababa ang upuan kaya\'t komportable.</item>
+        <item>-Love is a powerful emotion. \n-Ang pag-ibig ay isang matinding damdamin.</item>
+        <item>-Let me know if you need any help. \n-Sabihin mo sa akin kung kailangan mo ng tulong.</item>
+        <item>-I have a meeting on Monday. \n-Mayroon akong miting sa Lunes.</item>
+        <item>-My sister\'s birthday is in March. \n-Ang kaarawan ng kapatid kong babae ay sa buwan ng Marso.</item>
+        <item>- May is a month of flowers. \n-Ang Mayo ay isang buwan ng mga bulaklak.</item>
+        <item>-December is the last month of the year. \n-Ang Disyembre ay ang huling buwan ng taon.</item>
+        <item>-There are many books on the shelf. \n-Maraming aklat sa aparador.</item>
+        <item>-My mother is a great cook. \n-Magaling magluto ang aking ina.</item>
+        <item>-They celebrated their 25th wedding anniversary. \n-Ipinagdiwang nila ang kanilang ika-25 anibersaryo ng kasal.</item>
+        <item>-Halloween is celebrated in November. \n-Ang Halloween ay ipinagdiriwang sa Nobyembre.</item>
+        <item>-The market is near my house. \n-Malapit ang palengke sa bahay ko.</item>
+        <item>-I bought a new car. \n-Bumili ako ng bagoong sasakyan.</item>
+        <item>-The party next door is too noisy. \n-Ang kasiyahan sa kabilang bahay ay sobrang maingay.</item>
+        <item>-I always get nervous before exams. \n-Laging nerbiyoso bago ang mga pagsusulit.</item>
+        <item>-My nephew is very talented. \n-Magaling ang aking pamangkin.</item>
+        <item>-My niece is an excellent student. \n-Magaling ang aking pamangkin.</item>
+        <item>-Orange is her favorite color. \n-Ang paborito niyang kulay ay kahel.</item>
+        <item>-World Smile Day is celebrated in October. \n-Ang World Smile Day ay ipinagdiriwang sa Oktubre.</item>
+        <item>-My grandmother is old but very active. \n-Matanda na ang aking Lola pero napakaaktibo.</item>
+        <item>-My older sister helps me with my homework. \n-Tinutulungan ako ng aking mas matandang kapatid na babae sa aking takdang-aralin.</item>
+        <item>-My older brother taught me how to ride a bike. \n-Itinuro sa akin ng aking mas matandang kapatid na lalaki kung paano magbisikleta.</item>
+        <item>-Opo, tama po kayo. \n-Yes, you are correct.</item>
+        <item>-She likes to wear pink dresses. \n-Gusto niyang magsuot ng damit na kulay rosas.</item>
+        <item>-Her favorite color is purple. \n-Ang paborito niyang kulay ay lila.</item>
+        <item>-I am proud of my accomplishments. \n-Proud ako sa aking mga narating.</item>
+        <item>-You are permitted to leave this room. \n-May permiso kang umalis sa silid na ito.</item>
+        <item>-She got pregnant soon after they married. \n-Siya ay nabuntis pagkatapos niyang ikasal.</item>
+        <item>-My parents and I went on vacation in our province. \n-Ako at ang aking magulang ay nagbakasyon sa aming probinsya.</item>
+        <item>-The photographer captured the beauty of the sunset perfectly. \n-Nakunan ng perpekto ng  litratista ang magandang paglubog ng araw.</item>
+        <item>-The professor explained the complex theories in a simple and understandable manner. \n-Inipaliwanag ng propesor ang mga kumplikadong teorya sa simpleng at maunawain na paraan.</item>
+        <item>-The library is a quiet place to study. \n-Ang aklatan ay isang tahimik na lugar para mag-aral.</item>
+        <item>-After the rain, we saw a beautiful rainbow in the sky. \nMatapos ang ulan, nakita namin ang magandang bahaghari sa langit.</item>
+        <item>-She painted her room in a vibrant shade of red. \n-Pininturahan nya matingkad na kulay pula ang kanyang silid.</item>
+        <item>-The child was scared of the sound of thunder. \n-Natatakot ang bata sa tunog ng kidlat.</item>
+        <item>-The puppy was small and adorable. \n-Maliit at kaaya-ayang ang tuta.</item>
+        <item>-She is a smart student and excels in her studies. \n-Matalino siya na mag-aaral at mahusay sa kanyang mga aralin.</item>
+        <item>-The pillow was soft and comfortable. \n-Malambot at komportable ang unan.</item>
+        <item>-I am proud of my accomplishments. \n-Proud ako sa aking mga narating.</item>
+        <item>-We\'re planning to have a picnic next Saturday. \n-Nagplaplano kami na mag-picnic sa susunod na Sabado.</item>
+        <item>-We usually have a family dinner every Sunday. \n-Karaniwang may salo-salo ang aming pamilya tuwing Linggo.</item>
+        <item>-My birthday is in September. \n-Ang kaarawan ko ay sa Setyembre.</item>
+        <item>-The chips were too salty for my liking. \n-Sobrang maalat ang mga chips para sa akin.</item>
+        <item>-Our dresses are the same. \n-Ang mga damit namin ay pareho.</item>
+        <item>-The turtle is slow. \n-Ang pagong ay mabagal.</item>
+        <item>-The unripe mango is sour. \n-Maasim ang hilaw na mangga.</item>
+        <item>-The curry is too spicy for me. \n-Sobrang maanghang ang kare-kare para sa akin.</item>
+        <item>-He is strong enough to lift the boxes. \n-Malakas siyang makabuhat ng mga kahon.</item>
+        <item>-The cake is sweet and delicious. \n-Matamis at masarap ang cake.</item>
+        <item>-The movie made me feel sad. \n-Pinadama sa akin ng pelikula ang malungkot na damdamin.</item>
+        <item>-She is too shy to speak in public. \n-Siya ay napaka mahiyang magsalita sa publiko.</item>
+        <item>-I can\'t go to work; I\'m sick. \n-Hindi ako makakapasok sa trabaho; may sakit ako.</item>
+        <item>-After a long day, I feel very sleepy. \n-Pagkatapos ng mahabang araw, sobrang antok na ako.</item>
+        <item>-She looked surprised by the unexpected news. \n-Mukhang nagulat siya sa di-inaasahang balita.</item>
+        <item>-The students are preparing for the exam. \n-Ang mga estudyante ay nag-aaral para sa pagsusulit.</item>
+        <item>-The son helped his father with the chores. \n-Tinulungan ng anak na lalaki ang kanyang ama sa gawain.</item>
+        <item>-My stepbrother is visiting us this weekend. \n-Dadalawin kami ng aking stepbrother ngayong weekend.</item>
+        <item>-My stepsister and I get along well. \n-Magkasundo kami ng aking stepsister.</item>
+        <item>-After the beach vacation, I got a tan. \n-Pagkatapos ng bakasyon sa beach, nakuha ko ang kayumangging balat.</item>
+        <item>-We\'ll meet on Thursday for coffee. \n-Magkikita tayo sa Huwebes para sa kape.</item>
+        <item>-Our meeting is scheduled for Tuesday afternoon. \n-Ang aming pagpupulong ay nakatakdang Martes ng hapon.</item>
+        <item>-His story is true. \n-Totoo ang kanyang kwento.</item>
+        <item>-After the long hike, I am tired. \n-Pagkatapos ng mahabang hike, pagod na ako.</item>
+        <item>-The teacher explained the lesson clearly. \n-Ipinaliwanag ng guro nang mabuti ang aralin.</item>
+        <item>-Teenagers often face challenges during adolescence. \n-Madalas ang mga tinedyer sa pagharap ng mga hamon sa adolescence.</item>
+        <item>-My uncle is coming for a visit. \n-Darating ang tiyo ko para bisitahin kami.</item>
+        <item>-Beauty is subjective; what is ugly to one may be beautiful to another. \nSubjektibo ang kagandahan; ang pangit para sa isa ay maaaring maganda para sa iba.</item>
+        <item>-The walls are painted white. \n-Puti ang pintura ng mga pader.</item>
+        <item>-Let\'s plan a meeting on Wednesday. \n-Magplano tayo ng pagpupulong sa Miyerkules.</item>
+        <item>-The old bridge is weak and needs repair. \n-Ang lumang tulay ay mahina at kailangan ng pagkukumpuni.</item>
+        <item>-Bring an umbrella; it\'s wet outside. \n-Magdala ng payong; basa sa labas.</item>
+        <item>-It\'s wrong to cheat on exams. \n-Mali ang mangopya sa mga pagsusulit.</item>
+        <item>-Don\'t worry; everything will be okay. \n-Huwag mag-alala; lahat ay magiging maayos.</item>
+        <item>-My wife is an excellent cook. \n-Ang aking asawa ay magaling magluto.</item>
+        <item>-I have a lot of work to do today. \n-Marami akong trabahong gagawin ngayon araw.</item>
+        <item>-The sunflower is yellow. \n-Dilaw ang bulaklak ng sunflower.</item>
+        <item>-The school year starts in June. \n-Ang pasukan ay nagsisimula sa Hunyo.</item>
+        <item>-Do you want some coffee? \nReplied: Yes, please. \n-Gusto mo ng kape? \nTugon: Oo, please.</item>
+        <item>-The young tree will grow tall someday. \n-Ang batang puno ay magiging mataas balang araw.</item>
+
+
+    </string-array>
+
+
+    <string-array name="fsl_phrase_tagalog">
+        <item>Filipino - Ikaw ba ay estudyante?</item>
+        <item>Filipino - Makiki-ulit, pakiusap</item>
+        <item>Filipino - Oo, tuturuan kita</item>
+        <item>Filipino - Halika, kumain tayo ng sabay.</item>
+        <item>Filipino - Halika, matuto ng FSL.</item>
+        <item>Filipino - Halika, kumain tayo.</item>
+        <item>Filipino - Klass, pakiusap makinig kayo.</item>
+        <item>Filipino - Pwede mo ba akong turuan?</item>
+        <item>Filipino - Kumalma ka</item>
+        <item>Filipino - Sumagot ka na ba sa iyong assignment?</item>
+        <item>Filipino - May klase ba tayo?</item>
+        <item>Filipino - May pagsusulit ba tayo ngayon araw?</item>
+        <item>Filipino - Paumanhin / Pakiraan po! / Maabala kita!</item>
+        <item>Filipino - Magandang gabi</item>
+        <item>Filipino - Magandang tanghali/Magandang hapon</item>
+        <item>Filipino - Magandang umaga</item>
+        <item>Filipino - Magaling!</item>
+        <item>Filipino - Sandali lang, pagod lang ako.</item>
+        <item>Filipino - Maligayang kaarawan</item>
+        <item>Filipino - Maligayang Araw ng mga Ama.</item>
+        <item>Filipino - Maligayang Araw ng mga Ina.</item>
+        <item>Filipino - Maligayang Araw ng mga Guro.</item>
+        <item>Filipino - Siya ay ka-klase ko.</item>
+        <item>Filipino - Siya ay ka-eskwela ko.</item>
+        <item>Filipino - Siya ay ang aking mahal</item>
+        <item>Filipino - Ilang taon ka na?</item>
+        <item>Filipino - Natapos mo na ba ang assignment?</item>
+        <item>Filipino - Alam ko siya ay kaibigan ko.</item>
+        <item>Filipino - May pagsusulit ba ngayon araw?</item>
+        <item>Filipino - May klase ba?</item>
+        <item>Filipino - Hindi ko naiintindihan.</item>
+        <item>Filipino - Humihingi ako ng paumanhin, ako\'y nag-aaral pa lamang ng sign language.</item>
+        <item>Filipino - Hindi ko alam.</item>
+        <item>Filipino - Nakalimutan ko</item>
+        <item>Filipino - Kilala ko ang mukha mo.</item>
+        <item>Filipino - Alam ko.</item>
+        <item>Filipino - Paalala ko lang.</item>
+        <item>Filipino - Naiintindihan ko.</item>
+        <item>Filipino - Gusto kong mag-practice ng aking sign language</item>
+        <item>Filipino - Gusto kita</item>
+        <item>Filipino - Miss na miss kita</item>
+        <item>Filipino - Konti lang</item>
+        <item>Filipino - Magpatuloy ka sa trabaho/ Magpatuloy ka lang</item>
+        <item>Filipino - Pwedeng pumunta sa banyo?</item>
+        <item>Filipino - Hindi, Hindi ako estudyante, ako ay nagtatrabaho</item>
+        <item>Filipino - Hindi, guro</item>
+        <item>Filipino - Huwag kang sumuko</item>
+        <item>Filipino - Ay, pagod lang ako</item>
+        <item>Filipino - Halika dito</item>
+        <item>Filipino - Paki-sign ng dahan-dahan, hindi ko maintindihan</item>
+        <item>Filipino - Ang ganda ng araw</item>
+        <item>Filipino - Kita tayo ulit</item>
+        <item>Filipino - Kita tayo mamaya</item>
+        <item>Filipino - Kita tayo sa susunod</item>
+        <item>Filipino - Ang galing-galing</item>
+        <item>Filipino - Ingat</item>
+        <item>Filipino - Subukan mo ulit</item>
+        <item>Filipino - Magpatuloy ka sa trabaho/ Magpatuloy ka lang</item>
+        <item>Filipino - Anong pinag-aaralan mo?</item>
+        <item>Filipino - Anong trabaho mo?</item>
+        <item>Filipino - Saan ka nakatira?</item>
+        <item>Filipino - Saan kang unibersidad nag-aaral?</item>
+        <item>Filipino - Anong oras ang klase?</item>
+        <item>Filipino - Anong mali? / Anong mayroon?</item>
+        <item>Filipino - Anong oras na?</item>
+        <item>Filipino - Anong oras magsisimula ang klase natin?</item>
+        <item>Filipino - Kailan ang kaarawan mo?</item>
+        <item>Filipino - Kailan ang oras ng iyong pahinga?</item>
+        <item>Filipino - Saan ka nag-aaral?</item>
+        <item>Filipino - Sino ang iyong guro?</item>
+        <item>Filipino - Bakit ka nahihiya?</item>
+        <item>Filipino - Sandali lang</item>
+        <item>Filipino - Magkapareho tayo</item>
+        <item>Filipino - Anong meron? / Anong Balita?</item>
+        <item>Filipino - Oo! Estudyante ako/ Oo! Estudyante po ako</item>
+        <item>Filipino - Opo, guro</item>
+        <item>Filipino - Mahalaga ka</item>
+    </string-array>
+
+    <string-array name="fsl_phrase_category">
+        <item>Question</item>
+        <item>Request/Polite Expression</item>
+        <item>Affirmation</item>
+        <item>Invitation</item>
+        <item>Invitation</item>
+        <item>Invitation</item>
+        <item>Instruction</item>
+        <item>Request</item>
+        <item>Instruction</item>
+        <item>Instruction</item>
+        <item>Question</item>
+        <item>Question</item>
+        <item>Politeness/Expression</item>
+        <item>Greeting</item>
+        <item>Greeting</item>
+        <item>Greeting</item>
+        <item>Appreciation</item>
+        <item>Explanation</item>
+        <item>Greeting</item>
+        <item>Greeting</item>
+        <item>Greeting</item>
+        <item>Greeting </item>
+        <item>Description</item>
+        <item>Description</item>
+        <item>Description</item>
+        <item>Question</item>
+        <item>Question</item>
+        <item>Statement/Description</item>
+        <item>Question</item>
+        <item>Question</item>
+        <item>Expression of Confusion</item>
+        <item>Explanation/Politeness</item>
+        <item>Statement of Lack of Knowledge</item>
+        <item>Admission of Forgetting</item>
+        <item>Recognition/Description</item>
+        <item>Statement of Knowledge</item>
+        <item>Action/Reminder</item>
+        <item>Statement of Comprehension</item>
+        <item>Communication</item>
+        <item>Expressing Feelings</item>
+        <item>Expressing Feelings</item>
+        <item>Quantity</item>
+        <item>Encouragement</item>
+        <item>Request/Permission</item>
+        <item>Identification</item>
+        <item>Clarification/Disagreement</item>
+        <item>Encouragement</item>
+        <item>State of Being</item>
+        <item>Request</item>
+        <item>Request/Communication</item>
+        <item>Expressing Appreciation</item>
+        <item>Farewell</item>
+        <item>Farewell</item>
+        <item>Farewell</item>
+        <item>Appreciation</item>
+        <item>Well-wishes</item>
+        <item>Encouragement</item>
+        <item>Inquiry</item>
+        <item>Encouragement</item>
+        <item>Inquiry</item>
+        <item>Inquiry</item>
+        <item>Inquiry</item>
+        <item>Inquiry</item>
+        <item>Inquiry</item>
+        <item>Inquiry</item>
+        <item>Inquiry</item>
+        <item>Inquiry</item>
+        <item>Inquiry</item>
+        <item>Inquiry</item>
+        <item>Inquiry</item>
+        <item>Inquiry</item>
+        <item>Request</item>
+        <item>Comparison</item>
+        <item>Encouragement</item>
+        <item>Confirmation</item>
+        <item>Confirmation</item>
+        <item>Encouragement/Affirmation</item>
+    </string-array>
+    
+    <string-array name="fsl_number_tagalog">
+        <item>Filipino - isa \n[number]</item>
+        <item>Filipino - dalawa \n[number]</item>
+        <item>Filipino - tatlo \n[number]</item>
+        <item>Filipino - apat \n[number]</item>
+        <item>Filipino - lima \n[number]</item>
+        <item>Filipino - anim \n[number]</item>
+        <item>Filipino - pito \n[number]</item>
+        <item>Filipino - walo \n[number]</item>
+        <item>Filipino - siyam \n[number]</item>
+        <item>Filipino - sampu \n[number]</item>
+
+    </string-array>
+
+    <string-array name="fsl_number_description">
+        <item>-The lowest cardinal number; half of two.</item>
+        <item>-Equivalent to the sum of one and one; one less than three.</item>
+        <item>-Equivalent to the sum of one and two; one more than two.</item>
+        <item>-Equivalent to the product of two and two; one more than three, or six less than ten</item>
+        <item>-Equivalent to the sum of two and three; one more than four, or half of ten</item>
+        <item>-Equivalent to the product of two and three; one more than five, or four less than ten</item>
+        <item>-Equivalent to the sum of three and four; one more than six, or three less than ten</item>
+        <item>-Equivalent to the product of two and four; one more than seven, or two less than ten</item>
+        <item>-Equivalent to the product of three and three; one more than eight, or one less than ten</item>
+        <item>-Equivalent to the product of five and two; one more than nine</item>
+    </string-array>
+
+
 
 
 </resources>

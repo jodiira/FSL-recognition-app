@@ -9,34 +9,54 @@
         <entry key="..\:/FSLRecognitionApp/app/src/main/res/drawable/bg_btnmainbutton.xml" value="0.2525" />
         <entry key="..\:/FSLRecognitionApp/app/src/main/res/drawable/bg_btnvb.xml" value="0.2875" />
         <entry key="..\:/FSLRecognitionApp/app/src/main/res/drawable/bg_btnwords.xml" value="0.208" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/drawable/bg_rectangle.xml" value="0.2545" />
         <entry key="..\:/FSLRecognitionApp/app/src/main/res/drawable/bg_splashcreen.xml" value="0.162" />
         <entry key="..\:/FSLRecognitionApp/app/src/main/res/drawable/camera_corners.xml" value="0.181" />
         <entry key="..\:/FSLRecognitionApp/app/src/main/res/drawable/camera_gest.xml" value="0.181" />
         <entry key="..\:/FSLRecognitionApp/app/src/main/res/drawable/gradient.xml" value="0.145" />
         <entry key="..\:/FSLRecognitionApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2525" />
         <entry key="..\:/FSLRecognitionApp/app/src/main/res/drawable/img_camera.xml" value="0.181" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/drawable/line.xml" value="0.326" />
         <entry key="..\:/FSLRecognitionApp/app/src/main/res/drawable/rectangle_help.xml" value="0.181" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/drawable/rounded_background.xml" value="0.2545" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/drawable/small_rounded_bg.xml" value="0.2545" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/drawable/small_rounded_definition.xml" value="0.2545" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/drawable/small_rounded_example.xml" value="0.2545" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/drawable/smallrectalph.xml" value="0.326" />
         <entry key="..\:/FSLRecognitionApp/app/src/main/res/drawable/text_display.xml" value="0.181" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout-hdpi/activity_about_app.xml" value="0.14344262295081966" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout-hdpi/activity_camera.xml" value="0.32395833333333335" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout-hdpi/activity_fsl_alphabet_details.xml" value="0.14344262295081966" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout-xhdpi/activity_about_app.xml" value="0.2" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout-xhdpi/activity_camera.xml" value="0.176" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout-xhdpi/activity_fsl_alphabets.xml" value="0.32395833333333335" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout-xxhdpi/activity_about_app.xml" value="0.32395833333333335" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout-xxhdpi/activity_fsl_alphabet_details.xml" value="0.32395833333333335" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout-xxhdpi/activity_fsl_alphabets.xml" value="0.32395833333333335" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout-xxxhdpi/activity_about_app.xml" value="0.21597222222222223" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout-xxxhdpi/activity_camera.xml" value="0.21597222222222223" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout-xxxhdpi/activity_fsl_alphabets.xml" value="0.21597222222222223" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/aaa.xml" value="0.2152777777777778" />
         <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/about_text.xml" value="0.2971014492753623" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_about_app.xml" value="0.264" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_camera.xml" value="0.2033514492753623" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_fsl_alphabet_details.xml" value="0.28703703703703703" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_fsl_alphabets.xml" value="0.28703703703703703" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_fsl_numbers.xml" value="0.28703703703703703" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_fsl_numbers_details.xml" value="0.287962962962963" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_fsl_phrases_details.xml" value="0.28703703703703703" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_fsl_sentences.xml" value="0.287962962962963" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_fsl_words.xml" value="0.1484375" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_fsl_words_details.xml" value="0.1484375" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_help.xml" value="0.3229166666666667" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_main_screen.xml" value="0.4" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_settings.xml" value="0.1484375" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.1484375" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_vocab_bank.xml" value="0.264" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/recycler_view_row.xml" value="0.2971014492753623" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/recycler_view_row_alphabet.xml" value="0.28703703703703703" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/recycler_view_row_number.xml" value="0.28703703703703703" />
-        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/recycler_view_row_phrase.xml" value="0.28703703703703703" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_about_app.xml" value="0.21597222222222223" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_camera.xml" value="0.176" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_fsl_alphabet_details.xml" value="0.152" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_fsl_alphabets.xml" value="0.14344262295081966" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_fsl_numbers.xml" value="0.21597222222222223" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_fsl_numbers_details.xml" value="0.14344262295081966" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_fsl_phrases_details.xml" value="0.21597222222222223" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_fsl_sentences.xml" value="0.21597222222222223" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_fsl_words.xml" value="0.21597222222222223" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_fsl_words_details.xml" value="0.21597222222222223" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_help.xml" value="0.14344262295081966" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_main_screen.xml" value="0.21597222222222223" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_settings.xml" value="0.21597222222222223" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.21597222222222223" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/activity_vocab_bank.xml" value="0.21597222222222223" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/recycler_view_row.xml" value="0.21597222222222223" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/recycler_view_row_alphabet.xml" value="0.21597222222222223" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/recycler_view_row_number.xml" value="0.21597222222222223" />
+        <entry key="..\:/FSLRecognitionApp/app/src/main/res/layout/recycler_view_row_phrase.xml" value="0.21597222222222223" />
         <entry key="..\:/FSLRecognitionApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.162" />
         <entry key="..\:/FSLRecognitionApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.162" />
       </map>
